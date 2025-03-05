@@ -4,8 +4,8 @@ const data = {
   name: "Nabadeep Kr. Das",
    
   email: "nabadeepdas069@gmail.com",
-  intro: "hey! i'm a pre-final year software engineering student at Central Institute of Technology. i'd love to chat — feel free to contact me at any of my socials below!",
-  work: "Tech Convenor @Codingclub CITK",
+  intro: "Hey! I'm a pre-final year software engineering student at Central Institute of Technology. I'd love to chat — feel free to contact me at any of my socials below !",
+  work: "SWE intern at @Tax-Hummer",
   apprenticeship: "Apprenticeship at Walmart Global Tech",
   socials: {
     github: "https://github.com/NABADEEP069",
